@@ -57,15 +57,14 @@ Navigation and delete use the `TKPWHR` block with `-LTZ`
 | End       | `🅃🄿🅷`<br>`🄺🅆🆁` |
 | Backspace | `🆃🄿🄷`<br>`🄺🅆🅁` |
 | Delete    | `🅃🄿🅷`<br>`🄺🅆🅁` |
-
  
 # Other keys
 
-Other keys use the `TKPWHR` block with `OLTZ`
+Other keys use the `TKPWHR` block with `ULTZ`
 ```
  🅂🆃🅿🅷 🄾 🄵🄿🅻🆃🄳
  🅂🅺🆆🆁 🄾 🅁🄱🄶🅂🆉
- 　　　🄰🅾 🄴🅄
+ 　　　🄰🄾 🄴🆄
 ```
 
 | Key                  | Stroke         |
@@ -88,12 +87,12 @@ Other keys use the `TKPWHR` block with `OLTZ`
 
 # Numbers and Function keys
 
-Numbers and function keys use the `STKPWR` block with `AOLTZ`
+Numbers and function keys use the `STKPWR` block with `EULTZ`
 
 ```
- 🆂🆃🅿🄷 🄾 🄵🄿🅻🆃🄳
- 🆂🅺🆆🆁 🄾 🅁🄱🄶🅂🆉
- 　　　🅰🅾 🄴🅄
+🆂🆃🅿🄷 🄾 🄵🅿🅻🅃🄳
+🆂🅺🆆🆁 🄾 🅁🄱🄶🆂🅉
+　　　🄰🄾 🅴🆄
 ```
 
 Numbers are formed using binary:
@@ -104,11 +103,11 @@ Numbers are formed using binary:
 
 To press a function key,  keys add in `TP-`.
 
-Example: To press Command-Shift-F2, stroke: `TPWAOFRLTZ`
+Example: To press Command-Shift-F2, stroke: `TPWEUFRLTZ`
 ```
- 🅂🆃🅿🄷 🄾 🅵🄿🅻🆃🄳
- 🅂🄺🆆🅁 🄾 🆁🄱🄶🅂🆉
- 　　　🅰🅾 🄴🅄
+🅂🆃🅿🄷 🄾 🅵🄿🅻🆃🄳
+🅂🄺🆆🅁 🄾 🆁🄱🄶🅂🆉
+　　　🄰🄾 🅴🆄
 ```
 
 ## Binary chart
@@ -131,11 +130,11 @@ Example: To press Command-Shift-F2, stroke: `TPWAOFRLTZ`
 | 14     | `🆂🅺🆆🅁` |
 | 15     | `🆂🅺🆆🆁` |
 
-Example: To press Alt-F12, stroke: `STKPAOBLTZ`
+Example: To press Alt-F12, stroke: `STKPEUBLTZ`
 ```
- 🆂🆃🅿🄷 🄾 🄵🄿🅻🆃🄳
- 🆂🅺🅆🅁 🄾 🅁🅱🄶🅂🆉
- 　　　🅰🅾 🄴🅄
+🆂🆃🅿🄷 🄾 🄵🄿🅻🆃🄳
+🆂🅺🅆🅁 🄾 🅁🅱🄶🅂🆉
+　　　🄰🄾 🅴🆄
 ```
 
 # Installation

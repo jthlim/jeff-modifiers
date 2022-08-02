@@ -11,8 +11,8 @@ import re
 # Mode selected by AOL keys
 # L not pressed:  Fingerspelling
 # `L` pressed:  Navigation layer
-# `OL` pressed:  Keys layer
-# `AOL` pressed: Numbers layer
+# `UL` pressed:  Keys layer
+# `EUL` pressed: Numbers layer
 
 LONGEST_KEY = 1
 
@@ -58,54 +58,54 @@ STROKE_MAP = {
     "HL": "delete",
 
     # Keys layer
-    "TKOL": "escape",
-    "HROL": "tab",
-    "HOL": "quoteright",
-    "WROL": "space",
-    "WHROL": "return",
-    "KWHROL": "return",
-    "KPOL": "slash",
-    "TWOL": "backslash",
-    "PHOL": "minus",
-    "TKPWOL": "equal",
-    "KOL": "period",
-    "WOL": "comma",
-    "KWOL": "semicolon",
-    "POL": " quoteleft",
-    "TPHOL": "braceleft",
-    "KWROL": "braceright",
+    "TKUL": "escape",
+    "HRUL": "tab",
+    "HUL": "quoteright",
+    "WRUL": "space",
+    "WHRUL": "return",
+    "KPUL": "slash",
+    "TWUL": "backslash",
+    "PHUL": "minus",
+    "TKPWUL": "equal",
+    "KUL": "period",
+    "WUL": "comma",
+    "KWUL": "semicolon",
+    "PUL": " quoteleft",
+    "TPHUL": "braceleft",
+    "KWRUL": "braceright",
 
     # Number layer
-    "AOL": "0",
-    "RAOL": "1",
-    "WAOL": "2",
-    "WRAOL": "3",
-    "KAOL": "4",
-    "KRAOL": "5",
-    "KWAOL": "6",
-    "KWRAOL": "7",
-    "SAOL": "8",
-    "SRAOL": "9",
+    "EUL": "0",
+    "REUL": "1",
+    "WEUL": "2",
+    "WREUL": "3",
+    "KEUL": "4",
+    "KREUL": "5",
+    "KWEUL": "6",
+    "KWREUL": "7",
+    "SEUL": "8",
+    "SREUL": "9",
 
-    "TPRAOL": "F1",
-    "TPWAOL": "F2",
-    "TPWRAOL": "F3",
-    "TKPAOL": "F4",
-    "TKPRAOL": "F5",
-    "TKPWAOL": "F6",
-    "TKPWRAOL": "F7",
-    "STPAOL": "F8",
-    "STPRAOL": "F9",
-    "STPWAOL": "F10",
-    "STPWRAOL": "F11",
-    "STKPAOL": "F12",
-    "STKPRAOL": "F13",
-    "STKPWAOL": "F14",
-    "STKPWRAOL": "F15",
+    "TPREUL": "F1",
+    "TPWEUL": "F2",
+    "TPWREUL": "F3",
+    "TKPEUL": "F4",
+    "TKPREUL": "F5",
+    "TKPWEUL": "F6",
+    "TKPWREUL": "F7",
+    "STPEUL": "F8",
+    "STPREUL": "F9",
+    "STPWEUL": "F10",
+    "STPWREUL": "F11",
+    "STKPEUL": "F12",
+    "STKPREUL": "F13",
+    "STKPWEUL": "F14",
+    "STKPWREUL": "F15",
 }
 
 PARTS_MATCHER = re.compile(
-    r'(S?T?K?P?W?H?R?)(A?O?)([-*]?)(E?U?)(F?R?P?B?)(L?)TZ')
+    r'(S?T?K?P?W?H?R?)(A?O?)([-*]?)(E?U?)(F?R?P?B?)(L?)TZ'
+)
 
 
 def lookup(chord):
