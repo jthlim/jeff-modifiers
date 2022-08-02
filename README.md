@@ -2,9 +2,9 @@
 
 ## Features
 
-* Uses a single suffix to handle control, shift, alt, super for letters and navigation
-* Letters, navigation, numbers, function keys and other keys can be entered
-* Avoids mis-stroking polluting output while navigating.
+* Uses a single suffix to handle control, shift, alt, super for letters and navigation.
+* Letters, navigation, numbers, function keys and other keys can be entered.
+* Single-key up/down/left/right minimizes mis-strokes interfering with content.
 
 This dictionary is activated by using `-TZ`:
 ```
