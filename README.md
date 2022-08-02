@@ -4,7 +4,7 @@
 
 * Uses a single suffix to handle control, shift, alt, super for letters and navigation.
 * Letters, navigation, numbers, function keys and other keys can be entered.
-* Single-key up/down/left/right minimizes mis-strokes interfering with content.
+* Single-key up/down/left/right simplifies cursor movement.
 
 This dictionary is activated by using `-TZ`:
 ```
