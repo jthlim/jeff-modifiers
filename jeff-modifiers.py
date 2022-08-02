@@ -63,6 +63,7 @@ STROKE_MAP = {
     "HOL": "quoteright",
     "WROL": "space",
     "WHROL": "return",
+    "KWHROL": "return",
     "KPOL": "slash",
     "TWOL": "backslash",
     "PHOL": "minus",
