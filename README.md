@@ -146,3 +146,7 @@ Example: To press Alt-F12, stroke: `STKPEUBLTZ`
 Diagrams created with [jeff-visual-stroke](https://github.com/jthlim/jeff-visual-stroke) dictionary.
 
 You may also be interested in [jeff-numbers](https://github.com/jthlim/jeff-numbers)
+You may also be interested in:
+* [jeff-numbers](https://github.com/jthlim/jeff-numbers)
+* [jeff-phrasing](https://github.com/jthlim/jeff-phrasing)
+* [jeff-visual-stroke](https://github.com/jthlim/jeff-visual-stroke)
