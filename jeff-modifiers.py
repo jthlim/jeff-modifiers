@@ -86,6 +86,17 @@ STROKE_MAP = {
     "SEUL": "8",
     "SREUL": "9",
 
+    "PEUL": "KP_0",
+    "PREUL": "KP_1",
+    "PWEUL": "KP_2",
+    "PWREUL": "KP_3",
+    "KPEUL": "KP_4",
+    "KPREUL": "KP_5",
+    "KPWEUL": "KP_6",
+    "KPWREUL": "KP_7",
+    "SPEUL": "KP_8",
+    "SPREUL": "KP_9",
+
     "TPREUL": "F1",
     "TPWEUL": "F2",
     "TPWREUL": "F3",

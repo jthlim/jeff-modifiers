@@ -101,11 +101,18 @@ Numbers are formed using binary:
 * `W-`: 2
 * `R-`: 1
 
-To press a function key,  keys add in `TP-`.
+To press a NumPad key, add in `P-`, to use a function key, add in `TP-`.
 
 Example: To press Command-Shift-F2, stroke: `TPWEUFRLTZ`
 ```
 🅂🆃🅿🄷 🄾 🅵🄿🅻🆃🄳
+🅂🄺🆆🅁 🄾 🆁🄱🄶🅂🆉
+　　　🄰🄾 🅴🆄
+```
+
+For Shift-NumPad-2, stroke: `PWEURLTZ`
+```
+🅂🅃🅿🄷 🄾 🄵🄿🅻🆃🄳
 🅂🄺🆆🅁 🄾 🆁🄱🄶🅂🆉
 　　　🄰🄾 🅴🆄
 ```
